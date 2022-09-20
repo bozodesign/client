@@ -1,0 +1,1545 @@
+{
+    "compressionlevel": -1,
+    "height": 15,
+    "infinite": false,
+    "layers": [
+        {
+            "data": [
+                92, 92, 92, 92, 92, 92, 92, 92, 92, 92, 92, 92, 92, 92, 92, 92,
+                92, 92, 92, 92, 92, 92, 92, 92, 92, 92, 92, 92, 92, 92, 92, 92,
+                92, 92, 92, 92, 92, 92, 92, 92, 92, 92, 92, 92, 92, 92, 92, 92,
+                92, 92, 92, 92, 92, 92, 92, 92, 92, 92, 92, 92, 92, 92, 92, 92,
+                92, 92, 92, 92, 92, 92, 92, 92, 92, 92, 92, 92, 92, 92, 92, 92,
+                92, 92, 92, 92, 92, 92, 92, 92, 92, 92, 92, 92, 92, 92, 92, 92,
+                92, 92, 92, 92, 92, 92, 92, 92, 92, 92, 92, 92, 92, 92, 92, 92,
+                92, 92, 92, 92, 92, 92, 92, 92, 92, 92, 92, 92, 92, 92, 92, 92,
+                92, 92, 92, 92, 92, 92, 92, 92, 92, 92, 92, 92, 92, 92, 92, 92,
+                92, 92, 92, 92, 92, 92, 92, 92, 92, 92, 92, 92, 92, 92, 92, 92,
+                92, 92, 92, 92, 92, 92, 92, 92, 92, 92, 92, 92, 92, 92, 92, 92,
+                92, 92, 92, 92, 92, 92, 92, 92, 92, 92, 92, 92, 92, 92, 92, 92,
+                92, 92, 92, 92, 92, 92, 92, 92, 92, 92, 92, 92, 92, 92, 92, 92,
+                92, 92, 92, 92, 92, 92, 92, 92, 92, 92, 92, 92, 92, 92, 92, 92,
+                92
+            ],
+            "height": 15,
+            "id": 1,
+            "name": "Ground",
+            "opacity": 1,
+            "type": "tilelayer",
+            "visible": true,
+            "width": 15,
+            "x": 0,
+            "y": 0
+        },
+        {
+            "data": [
+                215, 199, 199, 199, 199, 199, 199, 199, 199, 199, 199, 199, 199,
+                199, 216, 197, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 200, 197,
+                0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 200, 197, 0, 0, 0, 0, 0,
+                0, 0, 0, 0, 0, 0, 0, 0, 200, 197, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+                0, 0, 0, 200, 197, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 200,
+                197, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 200, 197, 0, 0, 0,
+                0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 200, 197, 0, 0, 0, 0, 0, 0, 0, 0,
+                0, 0, 0, 0, 0, 200, 197, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+                200, 197, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 200, 197, 0, 0,
+                0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 200, 197, 0, 0, 0, 0, 0, 0, 0,
+                0, 0, 0, 0, 0, 0, 200, 197, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+                0, 200, 213, 198, 198, 198, 198, 198, 198, 198, 198, 198, 198,
+                198, 198, 198, 214
+            ],
+            "height": 15,
+            "id": 2,
+            "name": "wall",
+            "opacity": 1,
+            "type": "tilelayer",
+            "visible": true,
+            "width": 15,
+            "x": 0,
+            "y": 0
+        }
+    ],
+    "nextlayerid": 4,
+    "nextobjectid": 1,
+    "orientation": "isometric",
+    "renderorder": "right-down",
+    "tiledversion": "1.9.2",
+    "tileheight": 128,
+    "tilesets": [
+        {
+            "columns": 0,
+            "firstgid": 1,
+            "grid": {
+                "height": 1,
+                "orientation": "orthogonal",
+                "width": 1
+            },
+            "margin": 0,
+            "name": "white",
+            "spacing": 0,
+            "tilecount": 240,
+            "tileheight": 512,
+            "tiles": [
+                {
+                    "id": 0,
+                    "image": "Isometric/arrow_E.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 1,
+                    "image": "Isometric/arrow_N.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 2,
+                    "image": "Isometric/arrow_S.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 3,
+                    "image": "Isometric/arrow_W.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 4,
+                    "image": "Isometric/arrowWall_E.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 5,
+                    "image": "Isometric/arrowWall_N.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 6,
+                    "image": "Isometric/arrowWall_S.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 7,
+                    "image": "Isometric/arrowWall_W.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 8,
+                    "image": "Isometric/block_E.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 9,
+                    "image": "Isometric/block_N.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 10,
+                    "image": "Isometric/block_S.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 11,
+                    "image": "Isometric/block_W.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 12,
+                    "image": "Isometric/blockAngle_E.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 13,
+                    "image": "Isometric/blockAngle_N.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 14,
+                    "image": "Isometric/blockAngle_S.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+
+                {
+                    "id": 15,
+                    "image": "Isometric/blockAngle_W.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 16,
+                    "image": "Isometric/blockHalf_E.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 17,
+                    "image": "Isometric/blockHalf_N.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 18,
+                    "image": "Isometric/blockHalf_S.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 19,
+                    "image": "Isometric/blockHalf_W.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 20,
+                    "image": "Isometric/blockQuarter_E.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 21,
+                    "image": "Isometric/blockQuarter_N.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 22,
+                    "image": "Isometric/blockQuarter_S.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 23,
+                    "image": "Isometric/blockQuarter_W.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 24,
+                    "image": "Isometric/column_E.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 25,
+                    "image": "Isometric/column_N.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 26,
+                    "image": "Isometric/column_S.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 27,
+                    "image": "Isometric/column_W.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 28,
+                    "image": "Isometric/columnBlocks_E.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 29,
+                    "image": "Isometric/columnBlocks_N.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+
+                {
+                    "id": 30,
+                    "image": "Isometric/columnBlocks_S.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 31,
+                    "image": "Isometric/columnBlocks_W.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 32,
+                    "image": "Isometric/columnCorner_E.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 33,
+                    "image": "Isometric/columnCorner_N.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 34,
+                    "image": "Isometric/columnCorner_S.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 35,
+                    "image": "Isometric/columnCorner_W.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 36,
+                    "image": "Isometric/crate_E.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 37,
+                    "image": "Isometric/crate_N.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 38,
+                    "image": "Isometric/crate_S.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 39,
+                    "image": "Isometric/crate_W.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 40,
+                    "image": "Isometric/doorClosed_E.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 41,
+                    "image": "Isometric/doorClosed_N.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 42,
+                    "image": "Isometric/doorClosed_S.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 43,
+                    "image": "Isometric/doorClosed_W.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 44,
+                    "image": "Isometric/doorOpen_E.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+
+                {
+                    "id": 45,
+                    "image": "Isometric/doorOpen_N.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 46,
+                    "image": "Isometric/doorOpen_S.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 47,
+                    "image": "Isometric/doorOpen_W.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 48,
+                    "image": "Isometric/doorway_E.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 49,
+                    "image": "Isometric/doorway_N.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 50,
+                    "image": "Isometric/doorway_S.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 51,
+                    "image": "Isometric/doorway_W.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 52,
+                    "image": "Isometric/doorwayBottom_E.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 53,
+                    "image": "Isometric/doorwayBottom_N.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 54,
+                    "image": "Isometric/doorwayBottom_S.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 55,
+                    "image": "Isometric/doorwayBottom_W.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 56,
+                    "image": "Isometric/doorwayCenter_E.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 57,
+                    "image": "Isometric/doorwayCenter_N.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 58,
+                    "image": "Isometric/doorwayCenter_S.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 59,
+                    "image": "Isometric/doorwayCenter_W.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+
+                {
+                    "id": 60,
+                    "image": "Isometric/doorwayLeft_E.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 61,
+                    "image": "Isometric/doorwayLeft_N.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 62,
+                    "image": "Isometric/doorwayLeft_S.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 63,
+                    "image": "Isometric/doorwayLeft_W.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 64,
+                    "image": "Isometric/doorwayLeftBottom_E.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 65,
+                    "image": "Isometric/doorwayLeftBottom_N.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 66,
+                    "image": "Isometric/doorwayLeftBottom_S.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 67,
+                    "image": "Isometric/doorwayLeftBottom_W.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 68,
+                    "image": "Isometric/doorwayMiddle_E.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 69,
+                    "image": "Isometric/doorwayMiddle_N.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 70,
+                    "image": "Isometric/doorwayMiddle_S.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 71,
+                    "image": "Isometric/doorwayMiddle_W.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 72,
+                    "image": "Isometric/doorwayMiddleBottom_E.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 73,
+                    "image": "Isometric/doorwayMiddleBottom_N.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 74,
+                    "image": "Isometric/doorwayMiddleBottom_S.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+
+                {
+                    "id": 75,
+                    "image": "Isometric/doorwayMiddleBottom_W.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 76,
+                    "image": "Isometric/doorwayRight_E.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 77,
+                    "image": "Isometric/doorwayRight_N.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 78,
+                    "image": "Isometric/doorwayRight_S.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 79,
+                    "image": "Isometric/doorwayRight_W.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 80,
+                    "image": "Isometric/doorwayRightBottom_E.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 81,
+                    "image": "Isometric/doorwayRightBottom_N.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 82,
+                    "image": "Isometric/doorwayRightBottom_S.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 83,
+                    "image": "Isometric/doorwayRightBottom_W.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 84,
+                    "image": "Isometric/fence_E.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 85,
+                    "image": "Isometric/fence_N.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 86,
+                    "image": "Isometric/fence_S.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 87,
+                    "image": "Isometric/fence_W.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 88,
+                    "image": "Isometric/floor_E.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 89,
+                    "image": "Isometric/floor_N.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+
+                {
+                    "id": 90,
+                    "image": "Isometric/floor_S.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 91,
+                    "image": "Isometric/floor_W.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 92,
+                    "image": "Isometric/floorHalf_E.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 93,
+                    "image": "Isometric/floorHalf_N.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 94,
+                    "image": "Isometric/floorHalf_S.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 95,
+                    "image": "Isometric/floorHalf_W.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 96,
+                    "image": "Isometric/floorQuarter_E.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 97,
+                    "image": "Isometric/floorQuarter_N.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 98,
+                    "image": "Isometric/floorQuarter_S.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 99,
+                    "image": "Isometric/floorQuarter_W.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 100,
+                    "image": "Isometric/ladder_E.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 101,
+                    "image": "Isometric/ladder_N.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 102,
+                    "image": "Isometric/ladder_S.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 103,
+                    "image": "Isometric/ladder_W.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 104,
+                    "image": "Isometric/pole_E.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+
+                {
+                    "id": 105,
+                    "image": "Isometric/pole_N.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 106,
+                    "image": "Isometric/pole_S.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 107,
+                    "image": "Isometric/pole_W.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 108,
+                    "image": "Isometric/poleGroup_E.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 109,
+                    "image": "Isometric/poleGroup_N.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 110,
+                    "image": "Isometric/poleGroup_S.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 111,
+                    "image": "Isometric/poleGroup_W.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 112,
+                    "image": "Isometric/slab_E.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 113,
+                    "image": "Isometric/slab_N.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 114,
+                    "image": "Isometric/slab_S.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 115,
+                    "image": "Isometric/slab_W.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 116,
+                    "image": "Isometric/slabAngle_E.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 117,
+                    "image": "Isometric/slabAngle_N.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 118,
+                    "image": "Isometric/slabAngle_S.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 119,
+                    "image": "Isometric/slabAngle_W.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+
+                {
+                    "id": 120,
+                    "image": "Isometric/slabHalf_E.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 121,
+                    "image": "Isometric/slabHalf_N.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 122,
+                    "image": "Isometric/slabHalf_S.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 123,
+                    "image": "Isometric/slabHalf_W.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 124,
+                    "image": "Isometric/slabQuarter_E.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 125,
+                    "image": "Isometric/slabQuarter_N.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 126,
+                    "image": "Isometric/slabQuarter_S.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 127,
+                    "image": "Isometric/slabQuarter_W.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 128,
+                    "image": "Isometric/slope_E.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 129,
+                    "image": "Isometric/slope_N.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 130,
+                    "image": "Isometric/slope_S.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 131,
+                    "image": "Isometric/slope_W.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 132,
+                    "image": "Isometric/slopeHalf_E.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 133,
+                    "image": "Isometric/slopeHalf_N.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 134,
+                    "image": "Isometric/slopeHalf_S.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+
+                {
+                    "id": 135,
+                    "image": "Isometric/slopeHalf_W.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 136,
+                    "image": "Isometric/slopeQuarter_E.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 137,
+                    "image": "Isometric/slopeQuarter_N.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 138,
+                    "image": "Isometric/slopeQuarter_S.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 139,
+                    "image": "Isometric/slopeQuarter_W.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 140,
+                    "image": "Isometric/sloperCornerInner_E.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 141,
+                    "image": "Isometric/sloperCornerInner_N.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 142,
+                    "image": "Isometric/sloperCornerInner_S.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 143,
+                    "image": "Isometric/sloperCornerInner_W.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 144,
+                    "image": "Isometric/sloperCornerOuter_E.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 145,
+                    "image": "Isometric/sloperCornerOuter_N.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 146,
+                    "image": "Isometric/sloperCornerOuter_S.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 147,
+                    "image": "Isometric/sloperCornerOuter_W.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 148,
+                    "image": "Isometric/slopeSmall_E.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 149,
+                    "image": "Isometric/slopeSmall_N.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+
+                {
+                    "id": 150,
+                    "image": "Isometric/slopeSmall_S.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 151,
+                    "image": "Isometric/slopeSmall_W.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 152,
+                    "image": "Isometric/stairs_E.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 153,
+                    "image": "Isometric/stairs_N.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 154,
+                    "image": "Isometric/stairs_S.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 155,
+                    "image": "Isometric/stairs_W.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 156,
+                    "image": "Isometric/stairsCornerInner_E.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 157,
+                    "image": "Isometric/stairsCornerInner_N.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 158,
+                    "image": "Isometric/stairsCornerInner_S.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 159,
+                    "image": "Isometric/stairsCornerInner_W.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 160,
+                    "image": "Isometric/stairsCornerOuter_E.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 161,
+                    "image": "Isometric/stairsCornerOuter_N.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 162,
+                    "image": "Isometric/stairsCornerOuter_S.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 163,
+                    "image": "Isometric/stairsCornerOuter_W.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 164,
+                    "image": "Isometric/stairsOpen_E.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+
+                {
+                    "id": 165,
+                    "image": "Isometric/stairsOpen_N.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 166,
+                    "image": "Isometric/stairsOpen_S.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 167,
+                    "image": "Isometric/stairsOpen_W.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 168,
+                    "image": "Isometric/stairsOpenCornerInner_E.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 169,
+                    "image": "Isometric/stairsOpenCornerInner_N.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 170,
+                    "image": "Isometric/stairsOpenCornerInner_S.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 171,
+                    "image": "Isometric/stairsOpenCornerInner_W.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 172,
+                    "image": "Isometric/stairsOpenCornerOuter_E.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 173,
+                    "image": "Isometric/stairsOpenCornerOuter_N.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 174,
+                    "image": "Isometric/stairsOpenCornerOuter_S.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 175,
+                    "image": "Isometric/stairsOpenCornerOuter_W.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 176,
+                    "image": "Isometric/steps_E.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 177,
+                    "image": "Isometric/steps_N.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 178,
+                    "image": "Isometric/steps_S.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 179,
+                    "image": "Isometric/steps_W.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+
+                {
+                    "id": 180,
+                    "image": "Isometric/switchFloorOff_E.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 181,
+                    "image": "Isometric/switchFloorOff_N.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 182,
+                    "image": "Isometric/switchFloorOff_S.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 183,
+                    "image": "Isometric/switchFloorOff_W.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 184,
+                    "image": "Isometric/switchFloorOn_E.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 185,
+                    "image": "Isometric/switchFloorOn_N.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 186,
+                    "image": "Isometric/switchFloorOn_S.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 187,
+                    "image": "Isometric/switchFloorOn_W.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 188,
+                    "image": "Isometric/switchWallOff_E.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 189,
+                    "image": "Isometric/switchWallOff_N.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 190,
+                    "image": "Isometric/switchWallOff_S.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 191,
+                    "image": "Isometric/switchWallOff_W.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 192,
+                    "image": "Isometric/switchWallOn_E.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 193,
+                    "image": "Isometric/switchWallOn_N.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 194,
+                    "image": "Isometric/switchWallOn_S.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+
+                {
+                    "id": 195,
+                    "image": "Isometric/switchWallOn_W.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 196,
+                    "image": "Isometric/wall_E.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 197,
+                    "image": "Isometric/wall_N.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 198,
+                    "image": "Isometric/wall_S.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 199,
+                    "image": "Isometric/wall_W.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 200,
+                    "image": "Isometric/wallBattlement_E.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 201,
+                    "image": "Isometric/wallBattlement_N.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 202,
+                    "image": "Isometric/wallBattlement_S.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 203,
+                    "image": "Isometric/wallBattlement_W.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 204,
+                    "image": "Isometric/wallCorner_E.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 205,
+                    "image": "Isometric/wallCorner_N.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 206,
+                    "image": "Isometric/wallCorner_S.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 207,
+                    "image": "Isometric/wallCorner_W.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 208,
+                    "image": "Isometric/wallCornerHalf_E.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 209,
+                    "image": "Isometric/wallCornerHalf_N.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+
+                {
+                    "id": 210,
+                    "image": "Isometric/wallCornerHalf_S.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 211,
+                    "image": "Isometric/wallCornerHalf_W.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 212,
+                    "image": "Isometric/wallCurve_E.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 213,
+                    "image": "Isometric/wallCurve_N.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 214,
+                    "image": "Isometric/wallCurve_S.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 215,
+                    "image": "Isometric/wallCurve_W.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 216,
+                    "image": "Isometric/wallCurveHalf_E.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 217,
+                    "image": "Isometric/wallCurveHalf_N.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 218,
+                    "image": "Isometric/wallCurveHalf_S.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 219,
+                    "image": "Isometric/wallCurveHalf_W.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 220,
+                    "image": "Isometric/wallHalf_E.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 221,
+                    "image": "Isometric/wallHalf_N.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 222,
+                    "image": "Isometric/wallHalf_S.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 223,
+                    "image": "Isometric/wallHalf_W.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 224,
+                    "image": "Isometric/window_E.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+
+                {
+                    "id": 225,
+                    "image": "Isometric/window_N.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 226,
+                    "image": "Isometric/window_S.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 227,
+                    "image": "Isometric/window_W.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 228,
+                    "image": "Isometric/windowLeft_E.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 229,
+                    "image": "Isometric/windowLeft_N.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 230,
+                    "image": "Isometric/windowLeft_S.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 231,
+                    "image": "Isometric/windowLeft_W.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 232,
+                    "image": "Isometric/windowMiddle_E.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 233,
+                    "image": "Isometric/windowMiddle_N.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 234,
+                    "image": "Isometric/windowMiddle_S.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 235,
+                    "image": "Isometric/windowMiddle_W.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 236,
+                    "image": "Isometric/windowRight_E.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 237,
+                    "image": "Isometric/windowRight_N.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 238,
+                    "image": "Isometric/windowRight_S.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                },
+                {
+                    "id": 239,
+                    "image": "Isometric/windowRight_W.png",
+                    "imageheight": 512,
+                    "imagewidth": 256
+                }
+            ],
+            "tilewidth": 256
+        }
+    ],
+    "tilewidth": 256,
+    "type": "map",
+    "version": "1.9",
+    "width": 15
+}
