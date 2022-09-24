@@ -94,6 +94,8 @@ export default class Game extends Phaser.Scene {
             705,
             -500
         )
+        groundLayer.setCullPadding(8, 8)
+        wallLayer.setCullPadding(8, 8)
         wallLayer.setCollisionByProperty({ collides: true })
 
         // debugDraw(groundLayer, this)

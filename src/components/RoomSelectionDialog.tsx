@@ -119,7 +119,7 @@ export default function RoomSelectionDialog() {
         }
     }
 
-    handleConnect()
+    // handleConnect()
     return (
         <>
             <Snackbar
